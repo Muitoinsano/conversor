@@ -1,0 +1,19 @@
+moveis:
+  mesa:
+    cor: ${cor_mesa}
+    tamanho: ${tamanho_mesa}
+    peso: ${peso_mesa}
+  cadeira:
+    cor: ${cor_cadeira}
+    tamanho: ${tamanho_cadeira}
+    peso: ${peso_cadeira}
+eletrodomesticos:
+  geladeira:
+    cor: ${cor_geladeira}
+    tamanho: ${tamanho_geladeira}
+    peso: ${peso_geladeira}
+  tv:
+    cor: ${cor_tv}
+    tamanho: ${tamanho_tv}
+    peso: ${peso_tv}
+    img: ${IMG}	

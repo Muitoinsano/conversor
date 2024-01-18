@@ -1,0 +1,19 @@
+moveis:
+  mesa:
+    cor: Azul
+    tamanho: 12x12
+    peso: 3kg
+  cadeira:
+    cor: Vermelho
+    tamanho: 10x10
+    peso: 2kg
+eletrodomesticos:
+  geladeira:
+    cor: Verde
+    tamanho: 15x15
+    peso: 4kg
+  tv:
+    cor: Preto
+    tamanho: 32 polegadas
+    peso: 5kg
+    img: IMG	

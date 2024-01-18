@@ -1,0 +1,19 @@
+moveis:
+  mesa:
+    cor: Branco
+    tamanho: 14x14
+    peso: 4kg
+  cadeira:
+    cor: Preto
+    tamanho: 11x11
+    peso: 3kg
+eletrodomesticos:
+  geladeira:
+    cor: Prata
+    tamanho: 16x16
+    peso: 5kg
+  tv:
+    cor: Cinza
+    tamanho: 40 polegadas
+    peso: 6kg
+    img: IMG	

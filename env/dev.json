@@ -1,0 +1,17 @@
+{
+    "Parametros": {
+        "cor_mesa": "Azul",
+        "tamanho_mesa": "12x12",
+        "peso_mesa": "3kg",
+        "cor_cadeira": "Vermelho",
+        "tamanho_cadeira": "10x10",
+        "peso_cadeira": "2kg",
+        "cor_geladeira": "Verde",
+        "tamanho_geladeira": "15x15",
+        "peso_geladeira": "4kg",
+        "cor_tv": "Preto",
+        "tamanho_tv": "32 polegadas",
+        "peso_tv": "5kg",
+	"img":"kkkk"
+    }
+}

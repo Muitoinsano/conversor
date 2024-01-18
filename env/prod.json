@@ -1,0 +1,17 @@
+{
+    "Parametros": {
+        "cor_mesa": "Preto",
+        "tamanho_mesa": "16x16",
+        "peso_mesa": "5kg",
+        "cor_cadeira": "Branco",
+        "tamanho_cadeira": "12x12",
+        "peso_cadeira": "4kg",
+        "cor_geladeira": "Branco",
+        "tamanho_geladeira": "17x17",
+        "peso_geladeira": "6kg",
+        "cor_tv": "Preto",
+        "tamanho_tv": "50 polegadas",
+        "peso_tv": "7kg",
+	"img":"kkkk"
+    }
+}
